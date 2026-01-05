@@ -78,7 +78,11 @@ My work bridges the gap between hardware control and generative intelligence. Fr
 ---
 
 <div align="center">
-
+  
+<div align="center">
+  <img src="https://dev-humor.vercel.app/api?theme=tokyonight&quote=I%20do%20not%20think%20there%20is%20any%20thrill%20that%20can%20go%20through%20the%20human%20heart%20like%20that%20felt%20by%20the%20inventor%20as%20he%20sees%20some%20creation%20of%20the%20brain%20unfolding%20to%20success%20.%20.%20.%20Such%20emotions%20make%20a%20man%20forget%20food%2C%20sleep%2C%20friends%2C%20love%2C%20everything.&author=Nikola%20Tesla" alt="Nikola Tesla Quote" />
+</div>
+  
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=divyarthjain&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
